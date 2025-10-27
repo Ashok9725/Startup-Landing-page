@@ -33,27 +33,22 @@ All images used in this project are sourced from [Unsplash](https://unsplash.com
 
 ## ⚙️ How to Run the Project
 
-1. **Download or Clone the Repository**
+ **Download or Clone the Repository**
    git clone https://github.com/yourusername/startup-landing-page.git
-Open the Project Folder
+**Open the Project Folder:**
 cd startup-landing-page
-Run the Project
+**Run the Project:**
 Simply open index.html in any browser.
 No additional setup or dependencies required.
 
-🧾 Learning Objectives
+🧾 **Learning Objectives:**
 Understand how to build a structured HTML layout.
-
 Apply responsive design techniques using Bootstrap.
-
 Customize design elements with CSS.
-
 Organize and manage project files effectively.
 
-✨ Future Enhancements
+✨ **Future Enhancements:**
 Add interactive animations or hover effects.
-
 Integrate a working contact form (with backend).
-
 Add dark mode toggle feature.
 
