@@ -25,21 +25,6 @@ This project demonstrates modern web design principles, responsiveness, and visu
 - **Unsplash Images**
 
 ---
-
-## 📁 Project Structure
-
-StartupLandingPage/
-│
-├── index.html # Main HTML file
-├── css/
-│ └── style.css # Custom CSS styles
-├── images/
-│ ├── hero-bg.jpg # Hero section background
-│ └── mission-bg.jpg # Mission section background
-└── README.md # Project documentation
-
----
-
 ## 🖼️ Image Credits
 
 All images used in this project are sourced from [Unsplash](https://unsplash.com).
