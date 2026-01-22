@@ -22,7 +22,6 @@ This project demonstrates modern web design principles, responsiveness, and visu
 - **HTML5**
 - **CSS3**
 - **Bootstrap 5**
-- **Unsplash Images**
 
 ---
 ## 🖼️ Image Credits
@@ -34,21 +33,10 @@ All images used in this project are sourced from [Unsplash](https://unsplash.com
 ## ⚙️ How to Run the Project
 
  **Download or Clone the Repository**
-   git clone https://github.com/yourusername/startup-landing-page.git
+   git clone https://github.com/Ashok9725/Startup-Landing-page.git
 **Open the Project Folder:**
 cd startup-landing-page
 **Run the Project:**
 Simply open index.html in any browser.
 No additional setup or dependencies required.
-
-🧾 **Learning Objectives:**
-Understand how to build a structured HTML layout.
-Apply responsive design techniques using Bootstrap.
-Customize design elements with CSS.
-Organize and manage project files effectively.
-
-✨ **Future Enhancements:**
-Add interactive animations or hover effects.
-Integrate a working contact form (with backend).
-Add dark mode toggle feature.
 
